@@ -1,2 +1,1 @@
-﻿# APP-Dashboard-Omint
-Repositório da aplicação(Angular) do Dashboard Omint
+﻿# Template Angular Admin-TE
